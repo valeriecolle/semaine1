@@ -10,12 +10,15 @@ _découvre un nouvel univers_
 * CSS
 * JavaScript  
 * etc  
-________________
+________________  
+
 .environnements  
 * Simplonline
 * GitHub
 * Cloud9
 * etc
 _____________________________________________________
-une petite citation : > Si un jour on te reproche que ton travail, n'est pas un travail de professionnel, dis-toi bien que:
-Des amateurs ont construit l'arche de Noé et des professionnels le Titanic.
+une petite citation : 
+
+> Si un jour on te reproche que ton travail, n'est pas un travail de professionnel, dis-toi bien que:
+Des amateurs ont construit l'arche de Noé et des professionnels le Titanic.!
